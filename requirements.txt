@@ -1,0 +1,18 @@
+numpy
+pandas
+scikit-learn
+pickle
+# pip install -r requirements.txt
+"""First we will develop the model linear regreesion by using wine data
+for thet we developed a python code
+the package used in that python code, it will generate a model in the for of .pkl
+
+
+now for the inference we developed a file called app.py
+this file built top on flask api
+this file will use generate model
+it will give two end points
+
+
+one end point is for real time prediction
+another end point is for batch prediction"""
